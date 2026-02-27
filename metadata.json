@@ -1,0 +1,5 @@
+{
+  "name": "Teruke Weather & Studio",
+  "description": "A modern weather dashboard with NOAA-inspired insights and a Gemini-powered image editing studio.",
+  "requestFramePermissions": []
+}
